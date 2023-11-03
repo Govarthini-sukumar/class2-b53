@@ -1,0 +1,23 @@
+Document
+
+1)It represents any HTML Document web Page that is looded in the browser.
+
+2) It is loaded inside the window
+
+3) It is the object of window property.
+
+Syntax:
+
+document, property name;
+
+window : 
+
+1)It represents a browser window or frame that display the contents of the webpage.
+
+2)It is the very first object that is loaded in the browser.
+
+3)it is the object of the browser
+
+syntax :
+
+window property rame;
